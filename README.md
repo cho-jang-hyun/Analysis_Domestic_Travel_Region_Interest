@@ -1,5 +1,5 @@
 # Analysis_Domestic_Travel_Region_Interest
-# 국내 여행 지역 선호도 분석
+## 국내 여행 지역 선호도 분석
 
 ## Original Data(원본 데이터)
 https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=359f0000-4129-11ec-a107-3b8bd6a15b10
@@ -14,5 +14,14 @@ original data: '많이 작아졌다', '약간 작아졌다', '예전과 비슷�
 pre-processed data: 0, 1, 2, 3, 4
 
    
-## Overview
+## Overview (개요)
 To analyze about region in Korea, we launched this project!
+
+## Position
+|Member(팀원)|Part(역할)|깃허브주소|
+|김민석|모델링|-|
+|김민아|전처리/EDA|-|
+|김치연|전처리/EDA|-|
+|류여진|모델링|-|
+|이혁승|전처리/EDA|-|
+|조장현|모델링|-|
