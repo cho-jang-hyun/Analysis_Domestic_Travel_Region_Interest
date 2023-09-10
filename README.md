@@ -18,7 +18,8 @@ pre-processed data: 0, 1, 2, 3, 4
 To analyze about region in Korea, we launched this project!
 
 ## Position
-|Member(팀원)|Part(역할)|깃허브주소|
+| Member(팀원) | Part(역할) | 깃헙주소 |
+|----------|----------|----------|
 |김민석|모델링|-|
 |김민아|전처리/EDA|-|
 |김치연|전처리/EDA|-|
